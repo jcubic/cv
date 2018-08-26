@@ -1,8 +1,10 @@
 # cv
 
-My resume written in Polish created using Inkscape.
+My resume written in Polish, created using Inkscape.
 
-To build use:
+### Build
+
+To build pdf files you need to invoke from terminal:
 
 ```
 make
