@@ -16,4 +16,4 @@ It use `inkscape` to generate pdf files for both pages and merge them into one f
 
 Licensed under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/)
 
-Copyright (c) 2018 [Jakub Jankiewicz](http://jcubic.pl/jakub-jankiewicz)
+Copyright (c) 2018-2019 [Jakub Jankiewicz](https://jcubic.pl/jakub-jankiewicz)
