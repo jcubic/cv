@@ -25,7 +25,7 @@ You also need some kind of Unix environment:
 * Windows 10 WSL,  GitBash or Cygwin
 * MacOSX
 
-You also need tool `pdfmerge` and [Inkscape](https://inkscape.org/).
+You also need tool `pdfmerge` and [Inkscape](https://inkscape.org/) 1.0.
 
 ### License
 
