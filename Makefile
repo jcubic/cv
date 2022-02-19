@@ -6,9 +6,12 @@ jakub-jankiewicz-cv-page1.pdf: jakub-jankiewicz-cv-page1.svg
 jakub-jankiewicz-cv-page2.pdf: jakub-jankiewicz-cv-page2.svg
 	inkscape -d 300 --export-type="pdf" jakub-jankiewicz-cv-page2.svg 2>/dev/null
 
-jakub-jankiewicz-cv.pdf: jakub-jankiewicz-cv-page1.pdf jakub-jankiewicz-cv-page2.pdf
+jakub-jankiewicz-cv-page3.pdf: jakub-jankiewicz-cv-page3.svg
+	inkscape -d 300 --export-type="pdf" jakub-jankiewicz-cv-page3.svg 2>/dev/null
+
+jakub-jankiewicz-cv.pdf: jakub-jankiewicz-cv-page1.pdf jakub-jankiewicz-cv-page2.pdf jakub-jankiewicz-cv-page3.pdf
 	test -s jakub-jankiewicz-cv.pdf && rm jakub-jankiewicz-cv.pdf || true
-	pdfmerge jakub-jankiewicz-cv-page{1,2}.pdf jakub-jankiewicz-cv.pdf
+	pdfmerge jakub-jankiewicz-cv-page{1,2,3}.pdf jakub-jankiewicz-cv.pdf
 
 .PHONY: upload
 
