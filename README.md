@@ -10,7 +10,7 @@ To build pdf files you need to invoke from terminal:
 make
 ```
 
-It use `inkscape` to generate pdf files for both pages and merge them into one file using `pdfmerge`.
+It use `inkscape` to generate pdf files for all pages and merge them into one file using `pdfmerge`.
 
 ### Requirement
 
@@ -29,6 +29,5 @@ You also need tool `pdfmerge` and [Inkscape](https://inkscape.org/) 1.0.
 
 ### License
 
-Licensed under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/)
-
+Licensed under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/)<br/>
 Copyright (c) 2018-2020 [Jakub T. Jankiewicz](https://jcubic.pl/me)
