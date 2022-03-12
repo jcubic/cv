@@ -1,6 +1,6 @@
 # cv
 
-My resume written in Polish, created using Inkscape.
+My resume written in Polish and English, created using Inkscape.
 
 ### Build
 
