@@ -32,6 +32,6 @@ clean:
 	rm pl/jakub-jankiewicz-cv-page{1,2,3}.pdf 2>/dev/null
 	rm en/jakub-jankiewicz-cv-page{1,2,3}.pdf 2>/dev/null
 
-upload: jakub-jankiewicz-cv.pdf
+upload: jakub-jankiewicz-cv-en.pdf jakub-jankiewicz-cv-pl.pdf
 	@./upload
 
