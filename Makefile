@@ -1,6 +1,6 @@
 ALL: jakub-jankiewicz-cv-pl.pdf jakub-jankiewicz-cv-en.pdf
 
-en/jakub-jankiewicz-cv-page1.pdf: en/jakub-jankiewicz-cv-page1.svg
+en/jakub-jankiewicz-cv-page1.pdf: en/jakub-jankiewicz-cv-page1.svg portrait.jpg
 	inkscape -d 300 --export-type="pdf" en/jakub-jankiewicz-cv-page1.svg 2>/dev/null
 
 en/jakub-jankiewicz-cv-page2.pdf: en/jakub-jankiewicz-cv-page2.svg
@@ -9,7 +9,7 @@ en/jakub-jankiewicz-cv-page2.pdf: en/jakub-jankiewicz-cv-page2.svg
 en/jakub-jankiewicz-cv-page3.pdf: en/jakub-jankiewicz-cv-page3.svg
 	inkscape -d 300 --export-type="pdf" en/jakub-jankiewicz-cv-page3.svg 2>/dev/null
 
-pl/jakub-jankiewicz-cv-page1.pdf: pl/jakub-jankiewicz-cv-page1.svg
+pl/jakub-jankiewicz-cv-page1.pdf: pl/jakub-jankiewicz-cv-page1.svg portrait.jpg
 	inkscape -d 300 --export-type="pdf" pl/jakub-jankiewicz-cv-page1.svg 2>/dev/null
 
 pl/jakub-jankiewicz-cv-page2.pdf: pl/jakub-jankiewicz-cv-page2.svg
