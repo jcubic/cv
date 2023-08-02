@@ -1,3 +1,5 @@
+SHELL := /bin/bash
+
 ALL: jakub-jankiewicz-cv-pl.pdf jakub-jankiewicz-cv-en.pdf
 
 en/jakub-jankiewicz-cv-page1.pdf: en/jakub-jankiewicz-cv-page1.svg portrait.jpg
