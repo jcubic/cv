@@ -30,4 +30,4 @@ You also need tool `pdfmerge` and [Inkscape](https://inkscape.org/) 1.0.
 ### License
 
 Licensed under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/)<br/>
-Copyright (c) 2018-2022 [Jakub T. Jankiewicz](https://jcubic.pl/me)
+Copyright (c) 2018-2024 [Jakub T. Jankiewicz](https://jcubic.pl/me)
