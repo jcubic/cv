@@ -1,0 +1,15 @@
+/* Korekta typografii dla wersji polskiej, aby zmieścić RODO na 2 stronach */
+body {
+    font-size: 10pt;       /* Zmniejszenie z 10.5pt o pół punktu */
+}
+
+/* Nieco mniejsze odstępy między sekcjami */
+h2 {
+    margin-top: 18px;      /* Zmniejszone z 22px */
+    margin-bottom: 10px;   /* Zmniejszone z 12px */
+}
+
+/* Mniejsze odstępy pod listami */
+ul {
+    margin-bottom: 8px;    /* Zmniejszone z 10px */
+}

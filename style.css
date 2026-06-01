@@ -1,0 +1,112 @@
+/* --- KONFIGURACJA STRONY (W3C Paged Media) --- */
+@page {
+    size: A4;
+    /* Przywrócone, komfortowe i szerokie marginesy dla eleganckiego wyglądu */
+    margin: 18mm 20mm 18mm 20mm; 
+
+    @bottom-right {
+        content: "Strona " counter(page) " z " counter(pages);
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 8.5pt;
+        color: #666666;
+    }
+}
+
+/* --- INTELIGENTNE ZARZĄDZANIE STRONAMI --- */
+h2 {
+    page-break-after: avoid;
+}
+
+li, p {
+    page-break-inside: avoid;
+}
+
+/* --- TYPOGRAFIA I ŚWIATŁO --- */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #111111;
+    font-size: 10.5pt;       /* Przywrócony idealny, czytelny rozmiar czcionki */
+    line-height: 1.2;        /* Zwiększona interlinia – tekst zyskał świetne światło i oddech */
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0 0 6px 0;
+}
+
+/* --- NAGŁÓWEK GŁÓWNY --- */
+h1 {
+    text-align: center;
+    font-size: 24pt;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    margin: 0 0 5px 0;
+    text-transform: uppercase;
+}
+
+/* Linia kontaktowa pod imieniem */
+h1 + p {
+    text-align: center;
+    font-size: 9.5pt;
+    color: #444444;
+    margin-bottom: 25px;     /* Elegancki, większy odstęp startowy */
+}
+
+/* --- NAGŁÓWKI SEKCJI --- */
+h2 {
+    font-size: 12pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    border-bottom: 1.5px solid #111111;
+    padding-bottom: 3px;
+    margin-top: 22px;        /* Swobodna przestrzeń nad kolejnymi sekcjami */
+    margin-bottom: 12px;       /* Wyraźny odstęp pod tytułem sekcji */
+}
+
+/* --- WYRÓWNANIE DAT (Firma po lewej, data po prawej) --- */
+em {
+    font-style: normal;
+}
+
+strong + em {
+    float: right;
+    font-weight: normal;
+    color: #444444;
+}
+
+/* Czyszczenie potoków po elementach z floatem */
+h2 + p, ul + p, h1 + p + h2 {
+    clear: both;
+}
+
+/* --- LISTY PUNKTOWANE --- */
+ul {
+    margin: 0 0 10px 0;       /* Większy oddech pod całą listą */
+    padding-left: 18px;
+    clear: both;
+}
+
+li {
+    margin-bottom: 4px;       /* Swobodny odstęp między punktami doświadczenia */
+}
+
+strong {
+    color: #000000;
+}
+
+/* --- KLIKALNE LINKI (Zamiast podkreśleń - elegancki kolor) --- */
+a {
+    color: #1a568c;           /* Stonowany, biznesowy odcień niebieskiego – widać, że to link */
+    text-decoration: none;    /* Brak szarpiących tekst podkreśleń */
+    font-weight: 500;
+}
+
+/* Specjalne, lżejsze traktowanie klauzuli RODO na samym dole */
+h2:last-of-type + p {
+    font-size: 8.5pt;
+    color: #555555;
+    line-height: 1.4;
+    margin-top: 15px;
+}
