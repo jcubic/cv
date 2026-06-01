@@ -1,0 +1,3 @@
+#!/bin/bash
+
+scp jakub-jankiewicz-cv-{en,pl}.pdf mydevil:~/jakub.jankiewicz.org/
