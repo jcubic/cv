@@ -29,23 +29,23 @@ Senior Software Engineer with 14+ years of expertise in high-performance JavaScr
 
 ## COMMERCIAL EXPERIENCE
 
-**Sii Polska** | Senior Software Engineer
-*2025 - 2026*
+**Sii Polska** | Senior Software Engineer *2025 - 2026*
+
 * Architected and implemented enterprise-scale, high-performance React front-end systems.
 * Led strategic technical decisions on state management, bundle optimization, and component reusability.
 
-**Piwik PRO** | Senior JavaScript Developer
-*2024*
+**Piwik PRO** | Senior JavaScript Developer *2024*
+
 * Engineered privacy-focused analytics components using TypeScript and React within containerized Kubernetes ecosystems.
 * Optimized local Docker-based developer environments to ensure exact staging and production parity.
 
-**Britenet** | Senior React Developer
-*2023*
+**Britenet** | Senior React Developer *2023*
+
 * Developed a high-traffic mobile application for IGT utilizing React Native, Expo, and Zustand for optimized state synchronization.
 * Streamlined mobile CI/CD deployment pipelines and performed deep profiling to resolve performance bottlenecks.
 
-**ASTEK Polska** | Senior Front-End Developer
-*2016 - 2023*
+**ASTEK Polska** | Senior Front-End Developer *2016 - 2023*
+
 * Led front-end development for large-scale pharmaceutical data visualization applications using Angular, React, and R/Shiny.
 * Automated provisioning and cloud infrastructure deployment on OpenStack via Docker and Ansible.
 

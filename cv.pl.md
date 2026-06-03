@@ -30,23 +30,23 @@ Senior Software Engineer z ponad 14-letnim doświadczeniem w projektowaniu wysok
 
 ## DOŚWIADCZENIE KOMERCYJNE
 
-**Sii Polska** | Senior Software Engineer
-*2025 - 2026*
+**Sii Polska** | Senior Software Engineer *2025 - 2026*
+
 * Architektura i implementacja wysokowydajnych systemów frontendowych opartych na technologii React dla aplikacji klasy enterprise.
 * Podejmowanie kluczowych decyzji technologicznych w zakresie zarządzania stanem, optymalizacji paczek produkcyjnych (bundle optimization) oraz reużywalności komponentów.
 
-**Piwik PRO** | Senior JavaScript Developer
-*2024*
+**Piwik PRO** | Senior JavaScript Developer *2024*
+
 * Tworzenie komponentów analitycznych zorientowanych na prywatność użytkowników przy użyciu TypeScript i React w konteneryzowanym środowisku Kubernetes.
 * Optymalizacja lokalnych środowisk deweloperskich opartych na Dockerze w celu zapewnienia dokładnej spójności między środowiskiem testowym a produkcyjnym.
 
-**Britenet** | Senior React Developer
-*2023*
+**Britenet** | Senior React Developer *2023*
+
 * Rozwój aplikacji mobilnej o wysokim natężeniu ruchu dla IGT przy użyciu React Native, Expo oraz Zustand w celu optymalizacji synchronizacji stanu.
 * Usprawnianie potoków wdrażania mobilnego CI/CD oraz przeprowadzanie głębokiego profilowania wydajności w celu eliminacji wąskich gardeł (bottlenecks).
 
-**ASTEK Polska** | Senior Front-End Developer
-*2016 - 2023*
+**ASTEK Polska** | Senior Front-End Developer *2016 - 2023*
+
 * Prowadzenie rozwoju front-endu dla wielkoskalowych aplikacji do wizualizacji danych farmaceutycznych z wykorzystaniem technologii Angular, React oraz R/Shiny.
 * Automatyzacja aprowizacji infrastruktury i wdrożeń chmurowych w środowiskach OpenStack za pomocą Dockera i Ansible.
 
