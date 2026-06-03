@@ -9,7 +9,7 @@ Senior Software Engineer z ponad 14-letnim doświadczeniem w projektowaniu wysok
 * **Główna specjalizacja:** TypeScript, JavaScript (ES6+), React, React Native, Next.js, Redux, Zustand
 * **Architektura i AI-Driven Engineering:** Projektowanie systemów wspomagane AI (AI architecture orchestration), zaawansowane modelowanie architektury (Open Design), konfiguracja środowisk agentowych (Claude Code, Agent-Shell w GNU Emacs via ACP), implementacja i integracja narzędzi w standardzie MCP (Model Context Protocol).
 * **Architektura i rozwiązania webowe:** WebSockets, Server-Sent Events, Service Workers (twórca frameworka Wayne), GraphQL, REST, JSON-RPC, JWT, Web Components, Node.js, SQL
-* **DevOps i narzędzia:** Docker, Kubernetes, Ansible, GNU/Linux, Git Internals, potoki CI/CD, GNU Emacs
+* **DevOps i narzędzia:** Docker, Kubernetes, Ansible, GNU/Linux, Git Internals, potoki CI/CD (GitHub Actions, Azure DevOps), GNU Emacs
 * **Testowanie:** Jest, Vitest, Cypress, Puppeteer, Jasmine
 
 ## TWÓRCZOŚĆ I PUBLIKACJE TECHNICZNE
