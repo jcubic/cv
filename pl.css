@@ -1,6 +1,7 @@
 /* Korekta typografii dla wersji polskiej, aby zmieścić RODO na 2 stronach */
 body {
     font-size: 10pt;       /* Zmniejszenie z 10.5pt o pół punktu */
+    line-height: 1.18;
 }
 
 /* Nieco mniejsze odstępy między sekcjami */
