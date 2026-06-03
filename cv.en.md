@@ -50,7 +50,8 @@ Senior Software Engineer with 14+ years of expertise in high-performance JavaScr
 * Automated provisioning and cloud infrastructure deployment on OpenStack via Docker and Ansible.
 
 **Previous Commercial Experience (2011 - 2015):**
-* JavaScript/Web Developer at *XPro*, *Levitated* (Angular.js/SCRUM), *Z500*, *VocallyTalented* (Database ERD & UI design), *Aiki Lab* (OpenSource framework creation), and *Snapzu*.
+
+* JavaScript/Web Developer at *XPro* (UI development), *Levitated* (Angular.js/SCRUM), *Z500* (UI development & PHP), *VocallyTalented* (Database ERD & UI development), *Aiki Lab* (OpenSource framework creation), and *Snapzu* (UI of social platform).
 
 ## EDUCATION & COURSES
 * **Kielce University of Technology** | B.Eng. in Computer Science (Information Systems)
