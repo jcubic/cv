@@ -6,8 +6,8 @@ Senior Software Engineer with 14+ years of expertise in high-performance JavaScr
 
 ## TECHNICAL SKILLS
 * **Core Expertise:** TypeScript, JavaScript (ES6+), React, React Native, Next.js, Redux, Zustand
-* **Architecture & AI-Driven Engineering:** AI-assisted systems architecture orchestration, advanced systems modeling (Open Design), AI agent environment provisioning (Claude Code, Agent-Shell in GNU Emacs via ACP), MCP (Model Context Protocol) tool integration.
-* **Web Architecture & Solutions:** WebSockets, Server-Sent Events, Service Workers (creator of the Wayne framework), GraphQL, REST, JSON-RPC, JWT, Web Components, Node.js, SQL
+* **Architecture & AI-Driven Engineering:** AI-assisted systems architecture orchestration, advanced systems modeling (Open Design), AI agent environment provisioning (Claude Code, Agent-Shell), MCP tool integration. AI/ML Engineering: Python, PyTorch, production LLM integration, data analysis (Pandas, NumPy).
+* **Web Architecture & Solutions:** WebSockets, Server-Sent Events, Service Workers (creator of the Wayne framework), GraphQL, REST, JSON-RPC, JWT, Templating Languages (Liquid, Mustache, Twig), Web Components, accessibility WCAG (a11y), Node.js, SQL
 * **DevOps & Tools:** Docker, Kubernetes, Ansible, GNU/Linux, Git Internals, CI/CD Pipelines (GitHub Actions, Azure DevOps), GNU Emacs
 * **Testing:** Jest, Vitest, Cypress, Puppeteer, Jasmine
 
