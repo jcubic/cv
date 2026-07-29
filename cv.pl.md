@@ -9,8 +9,8 @@ Senior Software Engineer z ponad 14-letnim doświadczeniem w projektowaniu wysok
 * **Główna specjalizacja:** TypeScript, JavaScript (ES6+), React, React Native, Next.js, Redux, Zustand
 * **Architektura i AI-Driven Engineering:** Projektowanie systemów wspomagane AI (AI architecture orchestration), zaawansowane modelowanie architektury (Open Design), konfiguracja środowisk agentowych (Claude Code, Agent-Shell), implementacja narzędzi MCP. Inżynieria AI/ML: Python, PyTorch, praca z LLMs, analiza danych (Pandas, NumPy).
 * **Architektura i rozwiązania webowe:** WebSockets, Server-Sent Events, Service Workers (twórca frameworka Wayne), GraphQL, REST, JSON-RPC, JWT, systemy szablonów (Liquid, Mustache, Twig), Web Components, dostępność WCAG (a11y) Node.js, SQL
-* **DevOps i narzędzia:** Docker, Kubernetes, Ansible, GNU/Linux, Git Internals, potoki CI/CD (GitHub Actions, Azure DevOps), GNU Emacs
-* **Testowanie:** Jest, Vitest, Cypress, Puppeteer, Jasmine
+* **DevOps i narzędzia:** Docker, Kubernetes, Ansible, GNU/Linux, Git Internals, potoki CI/CD (GitHub Actions, Azure DevOps), GNU Emacs, GitHub, GitLab, BitBucket, Jira
+* **Testowanie:** Jest, Vitest, Cypress, Puppeteer, Playwright, Jasmine
 
 ## TWÓRCZOŚĆ I PUBLIKACJE TECHNICZNE
 * **Głównie JavaScript:** Założyciel i główny autor bloga [jcubic.pl](https://jcubic.pl/) – wieloletniego projektu technicznego skupionego na wewnętrznych mechanizmach JavaScriptu, nowoczesnych API oraz głębokich analizach ekosystemu webowego.
@@ -30,7 +30,7 @@ Senior Software Engineer z ponad 14-letnim doświadczeniem w projektowaniu wysok
 
 ## DOŚWIADCZENIE KOMERCYJNE
 
-**Sii Polska** | Senior Software Engineer *2025 - 2026*
+**Sii Polska** | Senior Software Engineer *2025 – 2026*
 
 * Architektura i implementacja wysokowydajnych systemów frontendowych opartych na technologii React dla aplikacji klasy enterprise.
 * Podejmowanie kluczowych decyzji technologicznych w zakresie zarządzania stanem, optymalizacji paczek produkcyjnych (bundle optimization) oraz reużywalności komponentów.
@@ -45,7 +45,7 @@ Senior Software Engineer z ponad 14-letnim doświadczeniem w projektowaniu wysok
 * Rozwój aplikacji mobilnej o wysokim natężeniu ruchu dla IGT przy użyciu React Native, Expo oraz Zustand w celu optymalizacji synchronizacji stanu.
 * Usprawnianie potoków wdrażania mobilnego CI/CD oraz przeprowadzanie głębokiego profilowania wydajności w celu eliminacji wąskich gardeł (bottlenecks).
 
-**ASTEK Polska** | Senior Front-End Developer *2016 - 2023*
+**ASTEK Polska** | Senior Front-End Developer *2015 – 2023*
 
 * Prowadzenie rozwoju front-endu dla wielkoskalowych aplikacji do wizualizacji danych farmaceutycznych z wykorzystaniem technologii Angular, React oraz R/Shiny.
 * Automatyzacja aprowizacji infrastruktury i wdrożeń chmurowych w środowiskach OpenStack za pomocą Dockera i Ansible.

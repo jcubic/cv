@@ -7,9 +7,9 @@ Senior Software Engineer with 14+ years of expertise in high-performance JavaScr
 ## TECHNICAL SKILLS
 * **Core Expertise:** TypeScript, JavaScript (ES6+), React, React Native, Next.js, Redux, Zustand
 * **Architecture & AI-Driven Engineering:** AI-assisted systems architecture orchestration, advanced systems modeling (Open Design), AI agent environment provisioning (Claude Code, Agent-Shell), MCP tool integration. AI/ML Engineering: Python, PyTorch, production LLM integration, data analysis (Pandas, NumPy).
-* **Web Architecture & Solutions:** WebSockets, Server-Sent Events, Service Workers (creator of the Wayne framework), GraphQL, REST, JSON-RPC, JWT, Templating Languages (Liquid, Mustache, Twig), Web Components, accessibility WCAG (a11y), Node.js, SQL
-* **DevOps & Tools:** Docker, Kubernetes, Ansible, GNU/Linux, Git Internals, CI/CD Pipelines (GitHub Actions, Azure DevOps), GNU Emacs
-* **Testing:** Jest, Vitest, Cypress, Puppeteer, Jasmine
+* **Web Architecture & Solutions:** WebSockets, Server-Sent Events, Service Workers (creator of the Wayne framework), GraphQL, REST, JSON-RPC, JWT, Templating Languages (Liquid, Mustache, Twig), Web Components, accessibility WCAG (A11Y), Node.js, SQL
+* **DevOps & Tools:** Docker, Kubernetes, Ansible, GNU/Linux, Git Internals, CI/CD Pipelines (GitHub Actions, Azure DevOps), GNU Emacs, GitHub, GitLab, BitBucket, Jira
+* **Testing:** Jest, Vitest, Cypress, Puppeteer, Playwright, Jasmine
 
 ## AUTHORSHIPS & TECHNICAL PUBLICATIONS
 * **Głównie JavaScript:** Founder and lead author of [jcubic.pl](https://jcubic.pl/) – a long-standing technical blog focused on core JavaScript internals, modern APIs, and deep-dives into the web ecosystem.
@@ -44,7 +44,7 @@ Senior Software Engineer with 14+ years of expertise in high-performance JavaScr
 * Developed a high-traffic mobile application for IGT utilizing React Native, Expo, and Zustand for optimized state synchronization.
 * Streamlined mobile CI/CD deployment pipelines and performed deep profiling to resolve performance bottlenecks.
 
-**ASTEK Polska** | Senior Front-End Developer *2016 - 2023*
+**ASTEK Polska** | Senior Front-End Developer *2015 - 2023*
 
 * Led front-end development for large-scale pharmaceutical data visualization applications using Angular, React, and R/Shiny.
 * Automated provisioning and cloud infrastructure deployment on OpenStack via Docker and Ansible.
