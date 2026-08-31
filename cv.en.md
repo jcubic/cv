@@ -49,7 +49,7 @@ Senior Software Engineer with 14+ years of expertise in high-performance JavaScr
 * Led front-end development for large-scale pharmaceutical data visualization applications using Angular, React, and R/Shiny.
 * Automated provisioning and cloud infrastructure deployment on OpenStack via Docker and Ansible.
 
-**Previous Commercial Experience (2011 - 2015):**
+**Previous Commercial Experience** *2011 - 2015*
 
 * JavaScript/Web Developer at *XPro* (UI development), *Levitated* (Angular.js/SCRUM), *Z500* (UI development & PHP), *VocallyTalented* (Database ERD & UI development), *Aiki Lab* (OpenSource framework creation), and *Snapzu* (UI of social platform).
 

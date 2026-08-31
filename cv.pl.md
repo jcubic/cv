@@ -50,7 +50,8 @@ Senior Software Engineer z ponad 14-letnim doświadczeniem w projektowaniu wysok
 * Prowadzenie rozwoju front-endu dla wielkoskalowych aplikacji do wizualizacji danych farmaceutycznych z wykorzystaniem technologii Angular, React oraz R/Shiny.
 * Automatyzacja aprowizacji infrastruktury i wdrożeń chmurowych w środowiskach OpenStack za pomocą Dockera i Ansible.
 
-**Wcześniejsze doświadczenie komercyjne (2011 - 2015):**
+**Wcześniejsze doświadczenie komercyjne** *2011 - 2015*
+
 * JavaScript/Web Developer w firmach: *XPro* (UI development), *Levitated* (Angular.js/SCRUM), *Z500* (UI i PHP), *VocallyTalented* (projektowanie baz danych ERD i UI), *Aiki Lab* (tworzenie frameworka Open Source) oraz *Snapzu* (UI platformy społecznościowej).
 
 ## WYKSZTAŁCENIE I KURSY

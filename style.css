@@ -2,7 +2,7 @@
 @page {
     size: A4;
     /* Przywrócone, komfortowe i szerokie marginesy dla eleganckiego wyglądu */
-    margin: 16mm 18mm 16mm 18mm; 
+    margin: 15mm; 
 
     @bottom-right {
         content: "Strona " counter(page) " z " counter(pages);
