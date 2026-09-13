@@ -2,14 +2,14 @@
 [jcubic@jcubic.pl](mailto:jcubic@jcubic.pl) | [+48 796 478 641](tel:+48796478641) | Bliżyn, Poland | [Homepage](https://jakub.jankiewicz.org/) | [GitHub](https://github.com/jcubic) | [LinkedIn](https://www.linkedin.com/in/jakubjankiewicz/)
 
 ## PROFESSIONAL SUMMARY
-Senior Software Engineer with 14+ years of expertise in high-performance JavaScript/TypeScript architectures, browser internals, and complex asynchronous state orchestration. Expert in modern software design within the Open Design paradigm and development workflow optimization leveraging AI agent ecosystems (Claude Code, Model Context Protocol) at an architectural level. Recognized open-source maintainer profiled by the [Open Source Initiative (OSI)](https://opensource.org/maintainers/jcubic). Proven track record in web performance optimization (Core Web Vitals), data structure engineering for SEO/GEO, and technical mentorship. Focused exclusively on high-impact senior remote roles.
+Senior Software Engineer with 14+ years of experience, mostly in JavaScript/TypeScript based projects. Focusing on front-end development, but with backend knowledge and experience in small and big projects, including legacy systems.
 
 ## TECHNICAL SKILLS
 * **Core Expertise:** TypeScript, JavaScript (ES6+), React, React Native, Next.js, Redux, Zustand
 * **Architecture & AI-Driven Engineering:** AI-assisted systems architecture orchestration, advanced systems modeling (Open Design), AI agent environment provisioning (Claude Code, Agent-Shell), MCP tool integration. AI/ML Engineering: Python, PyTorch, production LLM integration, data analysis (Pandas, NumPy).
 * **Web Architecture & Solutions:** WebSockets, Server-Sent Events, Service Workers (creator of the Wayne framework), GraphQL, REST, JSON-RPC, JWT, Templating Languages (Liquid, Mustache, Twig), Web Components, accessibility WCAG (A11Y), Node.js, SQL
-* **DevOps & Tools:** Docker, Kubernetes, Ansible, GNU/Linux, Git Internals, CI/CD Pipelines (GitHub Actions, Azure DevOps), GNU Emacs, GitHub, GitLab, BitBucket, Jira
-* **Testing:** Jest, Vitest, Cypress, Puppeteer, Playwright, Jasmine
+* **DevOps & Tools:** Docker, Kubernetes, GNU/Linux, Git Internals, CI/CD Pipelines (GitHub Actions, Azure DevOps), GNU Emacs, GitHub, GitLab, BitBucket, Jira
+* **Testing:** Jasmine, Jest, Vitest, Cypress, Puppeteer, Playwright
 
 ## AUTHORSHIPS & TECHNICAL PUBLICATIONS
 * **Głównie JavaScript:** Founder and lead author of [jcubic.pl](https://jcubic.pl/) – a long-standing technical blog focused on core JavaScript internals, modern APIs, and deep-dives into the web ecosystem.

@@ -2,7 +2,7 @@
 [jcubic@jcubic.pl](mailto:jcubic@jcubic.pl) | [+48 796 478 641](tel:+48796478641) | Bliżyn, Polska | [Strona domowa](https://jakub.jankiewicz.org/pl/) | [GitHub](https://github.com/jcubic) | [LinkedIn](https://www.linkedin.com/in/jakubjankiewicz/)
 
 ## PODSUMOWANIE ZAWODOWE
-Senior Software Engineer z ponad 14-letnim doświadczeniem w projektowaniu wysokowydajnych architektur JavaScript/TypeScript, mechanizmach wewnętrznych przeglądarek (browser internals) oraz złożonej, asynchronicznej orkiestracji stanu. Ekspert w zakresie nowoczesnego projektowania systemów w paradygmacie Open Design oraz optymalizacji procesów wytwarzania oprogramowania przy użyciu ekosystemu agentowego AI (Claude Code, specyfikacja MCP) na poziomie architektonicznym. Uznany twórca open-source wyróżniony przez [Open Source Initiative (OSI)](https://opensource.org/maintainers/jcubic). Udokumentowane sukcesy w podnoszeniu wydajności aplikacji (Core Web Vitals), optymalizacji struktur danych pod SEO/GEO oraz prowadzeniu technicznych programów mentorskich.
+Senior Software Engineer z ponad 14-letnim doświadczniem, głównie w projektach JavaScript/TypeScript. Skupiam się głównie na fron-endzie, ale mam także doświadczenie w backendzie w małych i dużych projektach, w tym w projektach legacy.
 
 
 ## UMIEJĘTNOŚCI TECHNICZNE
