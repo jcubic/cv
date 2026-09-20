@@ -2,8 +2,7 @@
 [jcubic@jcubic.pl](mailto:jcubic@jcubic.pl) | [+48 796 478 641](tel:+48796478641) | Bliżyn, Polska | [Strona domowa](https://jakub.jankiewicz.org/pl/) | [GitHub](https://github.com/jcubic) | [LinkedIn](https://www.linkedin.com/in/jakubjankiewicz/)
 
 ## PODSUMOWANIE ZAWODOWE
-Senior Software Engineer z ponad 14-letnim doświadczniem, głównie w projektach JavaScript/TypeScript. Skupiam się głównie na fron-endzie, ale mam także doświadczenie w backendzie w małych i dużych projektach, w tym w projektach legacy.
-
+Senior Software Engineer z ponad 14-letnim doświadczeniem, głównie w projektach JavaScript/TypeScript. Skupiam się głównie na fron-endzie, ale mam także doświadczenie w backendzie w małych i dużych projektach, w tym w projektach legacy. Znam bardzo dobrze systemy Linuksowe; używam systemu GNU/Linux od ponad 20 lat.
 
 ## UMIEJĘTNOŚCI TECHNICZNE
 * **Główna specjalizacja:** TypeScript, JavaScript (ES6+), React, React Native, Next.js, Redux, Zustand
