@@ -2,7 +2,7 @@
 [jcubic@jcubic.pl](mailto:jcubic@jcubic.pl) | [+48 796 478 641](tel:+48796478641) | Bliżyn, Poland | [Homepage](https://jakub.jankiewicz.org/) | [GitHub](https://github.com/jcubic) | [LinkedIn](https://www.linkedin.com/in/jakubjankiewicz/)
 
 ## PROFESSIONAL SUMMARY
-Senior Software Engineer with 14+ years of experience, mostly in JavaScript/TypeScript based projects. Focusing on front-end development, but with backend knowledge and experience in small and big projects, including legacy systems. I know Linux environments well, having used GNU/Linux exclusively for over 20 years.
+Senior Software Engineer with 14+ years of experience, mostly in JavaScript/TypeScript based projects. Focusing on front-end development, but with backend knowledge and experience in small and big projects, including legacy systems. I know Linux environments well, having used GNU/Linux exclusively for over 20 years. Over 15 years of experience as Open Source developer and maintainer. I create simple solutions for complex and challenging problems.
 
 ## TECHNICAL SKILLS
 * **Core Expertise:** TypeScript, JavaScript (ES6+), React, React Native, Next.js, Redux, Zustand
